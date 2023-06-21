@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello. Namaste 🙏🏻
+- I am Nayonika from Odisha, India.
+- I am a BTech CSE grad student from IIIT Bhubaneswar, batch 2017-2021
+- I have previously worked as SDE1 at Dell Technologies, Bengaluru - in the platform team of Dell Order Management Dept.
+- Professionally I have worked in developing and maintaining robust & scalable applications in Golang, Typescript and ReactJS.
+- I was in a study break of 6 months to try out an alternative career in Diplomacy and Foreign Relations, but having failed to clear the exam, I am now focused to enhance my skills and crack a goooood software developement role.
+- While I understand job searching and interviewing can take its own sweet time, I, patiently, am using this time to brush up my concepts in Data Structures and algorithms, design patterns, fundamentals, database, operating system (plus regularly working out!)
+- If you visited my profile and have any leads, kindly consider sharing it on nayonika99@outlook.com.
 
 <!--
 **Nayhay99/Nayhay99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
