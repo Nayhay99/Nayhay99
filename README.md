@@ -1,9 +1,24 @@
 ### Hello. Namaste 🙏🏻
-- I am Nayonika from Odisha, India.
-- I currently work @PhonePe. I previously worked @Dell Technologies(2021-2023)
+
+My name is Nayonika. 
+
+- I work as a software engineer @PhonePe. I have previously worked @Dell Technologies & a brief stint @Amazon.
 - I completed my Bachelors of Technology in Computer Science Engineering from IIIT Bhubaneswar (batch 2017-2021)
-- I work in developing and maintaining robust & scalable applications and solving real world problem statements.
-- I can code in **Golang**, **Javascript**, **ReactJS**, **Java**
+- Some of the business statements that I was fortunate to work upon:
+  	- Order management cloud system
+  	- Workflow orchestrator
+  	- Task alloation system
+  	- Web dashboard for android app developers
+  	- Optimising data visualizations
+- My hands-on production grade coding experience till now majorly involves the following
+  	- Javascript
+  	- Go
+  	- C++
+  	- Java
+  	- Docker
+  	- Kubernetes
+  	- SQL(mariaDb) and NoSQL(ES & MongoDB)
+- I am looking to contribute to open source projects on cloud technologies & distributed systems.
 - You can reach out to me on nayonika99@outlook.com
 
 <!--
