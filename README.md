@@ -7,7 +7,7 @@ My name is Nayonika.
 - Some of the business statements that I was fortunate to work upon:
   	- Order management cloud system
   	- Workflow orchestrator
-  	- Task alloation system
+  	- Task allocation system
   	- Web dashboard for android app developers
   	- Optimising data visualizations
 - My hands-on production grade coding experience till now majorly involves the following
