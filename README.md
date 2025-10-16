@@ -11,6 +11,7 @@ My name is Nayonika.
   	- Web dashboard for android app developers
   	- Optimising data visualizations
 - My hands-on production grade coding experience till now majorly involves the following
+  	- Java
   	- Javascript
   	- Go
   	- C++
